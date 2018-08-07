@@ -1,6 +1,6 @@
 ## 前端性能优化之Lazyload
 
-@(Mob前端)[JavaScript|技术分享|懒加载]
+@(Mob前端-冬晨)[JavaScript|技术分享|懒加载]
 
 -------------------
 
